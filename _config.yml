@@ -27,7 +27,7 @@ markdown:           kramdown
 nav:
   - name:           "Links"
     remote:         false
-    localpath:      "links"
+    href:           "https://jcabeza.github.io/docs"
   - name:           "Tips"
     remote:         false
     localpath:      "tips"
