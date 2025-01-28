@@ -2,11 +2,11 @@
 title:        "🪛 Global Stuff"
 # jekyll-seo-tag
 description:  "Global Stuff - Getting started"
-image:        "https://urls.fr/-DsTys"
+image:        "https://shorturl.at/HPwko"
 author:       "jose"
 ---
 
-![Large example image](https://images.pexels.com/photos/1409215/pexels-photo-1409215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Large example image]([https://images.pexels.com/photos/1409215/pexels-photo-1409215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2](https://shorturl.at/HPwko))
 
 💡 :
 ✔️ Used
