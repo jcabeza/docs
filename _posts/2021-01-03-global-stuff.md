@@ -1,5 +1,5 @@
 ---
-title:        "Global Stuff"
+title:        "🪛 Global Stuff"
 # jekyll-seo-tag
 description:  "Global Stuff - Getting started"
 image:        "https://urls.fr/-DsTys"
