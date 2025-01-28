@@ -8,11 +8,17 @@ author:       "jose"
 
 ![Large example image](https://images.pexels.com/photos/1409215/pexels-photo-1409215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
+# Table of Contents
+1. [Browser](#Browser)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
 💡 :
 ✔️ Used
 ❌ Not Used
 
-## 🌍 Browser
+# Browser
 
 - [Tor Browser](https://www.torproject.org) ✔️
 - [Firefox](https://www.mozilla.org/fr/firefox) ✔️
