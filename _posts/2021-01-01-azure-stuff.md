@@ -1,5 +1,5 @@
 ---
-title:        "Azure Stuff"
+title:        "☁️ Azure Stuff"
 # jekyll-seo-tag
 description:  "Azure Stuff - Getting started with Azure"
 image:        "https://urls.fr/-DsTys"
