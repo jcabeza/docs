@@ -1,12 +1,10 @@
 ---
-title:        "💜 Privacy Stuff"
+title:        "💀 Privacy Stuff"
 # jekyll-seo-tag
 description:  "💀 Privacy Stuff - Getting started with Privacy"
 image:        "https://urls.fr/-DsTys"
 author:       "jose"
 ---
-
-> 💀 Privacy Stuff - Getting started with Privacy
 
 ![Large example image](https://urls.fr/-DsTys "Privacy")
 
