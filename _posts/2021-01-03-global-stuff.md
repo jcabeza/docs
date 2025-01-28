@@ -27,12 +27,12 @@ author:       "jose"
 - [Orbot: Tor for Android](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_US&gl=US) ✔️
 - [Tor Browser for Android](https://play.google.com/store/apps/details?id=org.torproject.torbrowser) ❌
 
-## 🌍 Search
+# Search
 
 - [Startpage](https://www.startpage.com/) ❌
 - [DarkSearch](https://darksearch.io/) ❌
 
-## 🧩 Addons
+# Addons
 
 - [uBlock Origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) ✔️
 - [Privacy Badger](https://addons.mozilla.org/fr/firefox/addon/privacy-badger17/) ✔️
@@ -40,13 +40,13 @@ author:       "jose"
 - [Redirector](https://addons.mozilla.org/fr/firefox/addon/redirector) ✔️
 - [Privacy Redirect](https://addons.mozilla.org/fr/firefox/addon/privacy-redirect/) ✔️
 
-## 💻 Linux
+# Linux
 
 - [Crontab Guru](https://crontab.guru/) ✔️
 - [Linux Uprising](https://www.linuxuprising.com/) ❌
 - [Rocky Linux](https://docs.rockylinux.org/books/) ❌
 
-## 💻 Windows
+# Windows
 
 - [PowerToys](https://github.com/microsoft/PowerToys/releases) ✔️
 - [XMeters](https://entropy6.com/xmeters/) ❌
@@ -60,11 +60,11 @@ author:       "jose"
 - [Listary (Search utility for Windows)](https://www.listary.com/) ❌
 - [ShareX Screen Capture](https://getsharex.com/) ❌
 
-## 🦾 IA
+# IA
 
 - [ChatGPT](https://chatgpt.com/) ✔️
 
-## 🦾 DevOps
+# DevOps
 
 - [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10) ✔️
 - [Windows Subsystem for Linux (Optimization)](https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74) ✔️
@@ -81,11 +81,11 @@ author:       "jose"
 - [Gitea](https://gitea.io/en-us/) ❌
 - [GitLab](https://about.gitlab.com/) ❌
 
-## 💻 Raspberry PI
+# Raspberry PI
 
 - [RPI Locator](https://rpilocator.com/?) ❌
 
-## 🐙 Github
+# Github
 
 - [Tig for Git](https://jonas.github.io/tig/) ❌
 - [Shields.io](https://shields.io/) ❌
@@ -93,7 +93,7 @@ author:       "jose"
 - [Gitmoji](https://gitmoji.dev/) ❌
 - [Readme.so](https://readme.so/fr) ❌
 
-## 🔑 Password
+# Password
 
 - [ProtonPass](https://proton.me/fr/pass) ✔️
 - [Bitwarden](https://bitwarden.com) ❌
@@ -101,24 +101,24 @@ author:       "jose"
 - [KeePassDX](https://www.keepassdx.com) ❌
 - [OneTimePassword](https://onetimesecret.com) ❌
 
-## ✉️ Mailing
+# Mailing
 
 - [ProtonMail](https://protonmail.com) ✔️
 
-#### 📡 Messaging
+# Messaging
 
 - [Signal](https://www.signal.org) ✔️
 - [Telegram](https://telegram.org) ❌
 - [Telegram Web](https://web.telegram.im/) ❌
 - [Discord](https://discord.com/download) ✔️
 
-## 📄 File Management
+# File Management
 
 - [Nextcloud](https://nextcloud.com/) ❌
 - [Filestash](https://www.filestash.app/) ❌
 - [Filegator](https://filegator.io/) ❌
 
-## 🗒️ File Transfert
+# File Transfert
 
 - [SwissTransfer](https://www.swisstransfer.com/fr) ✔️
 - [Send Tresorit](https://send.tresorit.com/) ❌
@@ -126,29 +126,29 @@ author:       "jose"
 - [SecureDrop](https://securedrop.org) ❌
 - [Send](https://send.vis.ee/) ❌
 
-## 📄 File Restore
+# File Restore
 
 - [Recuva](http://www.recuva.fr/) ❌
 
-## 📄 File Search
+# File Search
 
 - [FilePursuit](https://filepursuit.com/) ❌
 
-## 📄 File Duplicate
+# File Duplicate
 
 - [dupeGuru](https://dupeguru.voltaicideas.net/) ✔️
 - [Czkawka for Linux](https://qarmin.github.io/czkawka/) ❌
 
-## 📑 PDF Tools
+# PDF Tools
 
 - [I Love PDF](https://www.ilovepdf.com/) ✔️
 - [AvePDF](https://avepdf.com/fr) ❌
 
-## 📖 RSS Readers
+# RSS Readers
 
 - [Feedly](https://feedly.com/) ✔️
 
-## 📂 Directory Reader / Framework
+# Directory Reader / Framework
 
 - [DirectoryLister](https://github.com/DirectoryLister/DirectoryLister.git) ❌
 - [Reveal.js](https://lab.hakim.se/reveal-js-leap/#/) ❌
@@ -156,23 +156,24 @@ author:       "jose"
 - [Apaxy](https://oupala.github.io/apaxy/) ❌
 - [Naked Pages](https://github.com/krisanalfa/naked-pages) ❌
 
-## 📝 Wiki
+# Wiki
 
 - [Wiki.js](https://wiki.js.org/) ❌
 - [BookStack](https://www.bookstackapp.com/) ❌
 - [BookStack Theme](https://github.com/domainzero/bookstack-dark-theme) ❌
 - [MatterWiki](http://matterwiki.com/) ❌
 
-## 📥 Torrent
+# Torrent
 
 - [WebTorrent](https://webtorrent.io/) ✔️
 
-## 📢 Spell Checker
+# Spell Checker
 
 - [Antidote](https://www.antidote.info/fr/antidote-10) ❌
 - [LanguageTool](https://languagetool.org/fr/) ✔️
+- [DeepL](https://www.deepl.com/fr/translator) ✔️
 
-## 📸 Photo
+# Photo
 
 - [RawTherapee](https://rawtherapee.com/) ❌
 - [Darktable](https://darktable.fr/) ❌
@@ -181,7 +182,7 @@ author:       "jose"
 - [Pixls](https://pixls.us/) ❌
 - [Free Profile Picture Maker ](https://pfpmaker.com/) ❌
 
-## 📷 Photoshop / Icons Library / Guide line
+# Photoshop / Icons Library / Guide line
 
 - [Guide Line Colour](http://guidelinecolour.com/?p=tools/guidelinecolours/) ❌
 - [Live Weave](https://liveweave.com/colors/index.html) ❌
@@ -198,7 +199,7 @@ author:       "jose"
 - [Reshot](https://www.reshot.com/) ❌
 - [Simple Icons](https://simpleicons.org/) ❌
 
-## 📹 Video
+# Video
 
 - [OBS Studio](https://obsproject.com/fr/) ❌
 - [Screencast-o-matic (Video Recording and Editing)](https://screencast-o-matic.com/) ❌
@@ -211,7 +212,7 @@ author:       "jose"
 - [EBSynth](https://ebsynth.com/) ❌
 - [Handbrake](https://handbrake.fr/) ❌
 
-## 🎬 Multimedia / Media Center
+# Multimedia / Media Center
 
 - [Emby](https://emby.media/) ✔️
 - [Kodi](https://kodi.tv/) ✔️
@@ -220,7 +221,7 @@ author:       "jose"
 - [Leonflix](https://leonflix.net/) ❌
 - [Captvty](https://captvty.fr/) ❌
 
-## 📷 Picture / Picture Library
+# Picture / Picture Library
 
 - [TinyEye](https://tineye.com/) ✔️
 - [Pixabay](https://pixabay.com/fr/) ✔️
@@ -230,31 +231,31 @@ author:       "jose"
 - [Estract Pics](https://extract.pics/) ❌
 - [Convertio](https://convertio.co/fr/png-ico/) ❌
 
-## 🪟 Wallpapers
+# Wallpapers
 
 - [Wallhaven](https://wallhaven.cc/) ✔️
 - [Wallpaperflare](https://www.wallpaperflare.com/) ✔️
 
-## 💎 3D
+# 3D
 
 - [Blender](https://www.blender.org/) ❌
 - [Quixel](https://quixel.com/gallery) ❌
 - [Unreal](https://www.unrealengine.com/en-US/) ❌
 
-## 👫🏻 Collaborative
+# Collaborative
 
 - [Proton Drive](https://drive.proton.me) ✔️
 - [Microsoft OneDrive](https://www.microsoft.com/fr-fr/microsoft-365/onedrive/online-cloud-storage) ❌
 - [pCloud](https://www.pcloud.com/fr) ❌
 - [Tresorit](https://tresorit.com/fr) ❌
 
-## 🎮 Gaming / Emulator
+# Gaming / Emulator
 
 - [Lakka](http://lakka.tv/) ❌
 - [RecalBox](https://www.recalbox.com/) ❌
 - [Emupedia](https://emupedia.net/beta/) ❌
 
-## 🧰 Admin Tools
+# Admin Tools
 
 - [MobaXterm (Terminal)](https://mobaxterm.mobatek.net/) ❌
 - [Medicat](https://gbatemp.net/threads/medicat-dvd-a-multiboot-linux-dvd.361577/) ❌
@@ -269,12 +270,12 @@ author:       "jose"
 - [Rufus (Create bootable USB drives)](https://rufus.ie/) ❌
 - [InnoExtract](https://constexpr.org/innoextract/) ❌
 
-## 🧰 Monitoring Tools
+# Monitoring Tools
 
 - [eZ Server Monitor](https://www.ezservermonitor.com/) ❌
 - [Server Monitoring](https://servermonitoring.me/) ❌
 
-## 🧰 Network Tools
+# Network Tools
 
 - [Wireshark](https://www.wireshark.org/) ❌
 - [Alcasar](http://www.alcasar.net/) ❌
@@ -285,13 +286,13 @@ author:       "jose"
 - [Dig for Windows](https://www.configserverfirewall.com/windows-10/dig-command-windows/) ❌
 - [VyOS Router](https://vyos.io/) ❌
 
-## 🧰 Web Tools
+# Web Tools
 
 - [httpie](https://httpie.io/product) ❌
 - [httpie Github](https://github.com/jakubroztocil/httpie) ❌
 - [KeyStore Explorer](https://keystore-explorer.org/index.html) ❌
 
-## ⚔️ Security
+# Security
 
 - [Certbot Let's Encrypt](https://certbot.eff.org/) ✔️
 - [Fail2ban](https://doc.ubuntu-fr.org/Fail2ban) ❌
@@ -303,51 +304,51 @@ author:       "jose"
 - [Lynis](https://cisofy.com/lynis/) ❌
 - [CrowdSec](https://www.crowdsec.net/) ❌
 
-## 🔍 DNS
+# DNS
 
 - [NextDNS](https://nextdns.io/fr) ❌
 - [Cloudflare](https://1.1.1.1/fr-FR/dns/) ❌
 
-## 🦠 Antivirus
+# Antivirus
 
 - [ClamAV](https://www.clamav.net/) ❌
 
-## 🧪 Virtualization
+# Virtualization
 
 - [Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#:~:text=%20Enable%20the%20Hyper-V%20role%20through%20Settings%20,4%20Select%20Hyper-V%20and%20click%20OK.%20More) ❌
 - [VirtualBox](https://www.virtualbox.org/) ❌
 - [VirtualBox Images](https://www.osboxes.org/virtualbox-images/) ❌
 - [Windows 10 images](https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines/) ❌
 
-## 🐳 Containers
+# Containers
 
 - [Docker for Windows](https://docs.docker.com/docker-for-windows/) ❌
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) ❌
 - [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/) ❌
 - [Kitematic by Docker](https://kitematic.com/) ❌
 
-## ⛓ Reverse Proxy & Load Balancer
+# Reverse Proxy & Load Balancer
 
 - [HAProxy](https://www.haproxy.com/fr/) ✔️
 
-## 💡 Domotics
+# Domotics
 
 - [Amazon Alexa](https://developer.amazon.com/fr-FR/alexa) ✔️
 - [Philips HUE](https://www.philips-hue.com/fr-fr) ✔️
 - [HueBlog](https://hueblog.com/) ❌
 
-## ⏱ Time Management
+# Time Management
 
 - [Pomotroid (Pomodoro Timer)](https://splode.github.io/pomotroid/) ✔️
 
-## 📝 Editors / Markdown / Ascii
+# Editors / Markdown / Ascii
 
 - [Noteppad++ (Notepad Editor)](https://notepad-plus-plus.org/) ✔️
 - [Mark Text](https://marktext.app/) 🧪
 - [asciiflow](https://asciiflow.com/) ❌
 - [ascii-art](https://textfancy.com/ascii-art/) ❌
 
-## 🧱 Firewall & Network
+# Firewall & Network
 
 - [Portmaster](https://safing.io/portmaster) 🧪
 - [Firezone](https://www.firezone.dev/) ❌
@@ -358,12 +359,12 @@ author:       "jose"
 - [Nftables](https://www.linuxembedded.fr/2022/06/introduction-a-nftables) ❌
 - [OpenWrt](https://openwrt.org/) ❌
 
-## ⚙️ Freebox
+# Freebox
 
 - [Freebox API](http://mafreebox.freebox.fr/api_version) ❌
 - [Freebox Dev API Doc](https://dev.freebox.fr/sdk/os/) ❌
 
-## 🔐 Encryption
+# Encryption
 
 - [BitLocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) ✔️
 - [Cryptomator](https://cryptomator.org) ✔️
@@ -371,12 +372,12 @@ author:       "jose"
 - [Hat.sh](https://hat.sh) ❌
 - [Kryptor](https://www.kryptor.co.uk/) ❌
 
-## 🧹 Secure-Deletion
+# Secure-Deletion
 
 - [WipeFile](https://www.gaijin.at/en/software/wipefile) ✔️
 - [Eraser](https://eraser.heidi.ie) ❌
 
-## 🗡️ VPN
+# VPN
 
 - [ProtonVPN](https://protonvpn.com) ✔️
 - [OpenVPN](https://openvpn.net) ✔️
@@ -384,52 +385,52 @@ author:       "jose"
 - [Firezone](https://www.firezone.dev/) ❌
 - [PiVPN](https://pivpn.io/) ❌
 
-## ✂️ Pastebin
+# Pastebin
 
 - [PrivateBin](https://privatebin.net) ❌
 - [Seafile](https://www.seafile.com/en/home) ❌
 
-## 📹 📺 Youtube
+# Youtube
 
 - [FreeTube](https://freetubeapp.io) ❌
 - [NewPipe for Android](https://newpipe.net) ❌
 
-## 🧹 Exif Data
+# Exif Data
 
 - [ExifCleaner](https://exifcleaner.com) ❌
 
-## 🔍 Tracking & Advertising
+# Tracking & Advertising
 
 - [AdGuard Home](https://adguard.com/fr/adguard-home/overview.html) ✔️
 - [Pi-hole](https://pi-hole.net) ❌
 - [Blocking list #1](https://energized.pro) ✔️
 - [Blocking list #2](https://filterlists.com) ✔️
 
-## 🔐 Multi-Factor Authentication (MFA)
+# Multi-Factor Authentication (MFA)
 
 - [Aegis Authenticator](https://getaegis.app) ✔️
 
-## ⚖️ Cryptocurrency
+# Cryptocurrency
 
 - [Coinbase](https://www.coinbase.com/) ✔️
 - [Coinbase Wallet](https://wallet.coinbase.com/) ✔️
 - [Binance](https://www.binance.com/fr) ✔️
 - [Ledger](https://www.ledger.com/) ✔️
 
-## ⛓ Blockchain & Explorer
+# Blockchain & Explorer
 
 - [Blockchair](https://blockchair.com/fr) ❌
 
-## 🛒 Purchase
+# Purchase
 
 - [Amazon.fr](https://www.amazon.fr/) ✔️
 - [Materiel.net](https://www.materiel.net/) ✔️
 
-## 🇪🇸 Language Learning
+# Language Learning
 
 - [Duolingo](https://www.duolingo.com/) ❌
 
-## 💻 OS
+# OS
 
 - [Windows 11](https://www.microsoft.com/fr-fr/software-download/windows11) ✔️
 - [Tails](https://tails.boum.org) ❌
@@ -441,12 +442,12 @@ author:       "jose"
 - [Backbox Linux](https://www.backbox.org/) ❌
 - [PureOS](https://www.pureos.net/) ❌
 
-## 📖 Ebooks, Kindle & reMarkable
+# Ebooks, Kindle & reMarkable
 
 - [Koodo Ebook Reader](https://koodo.960960.xyz/en) ❌
 - [Z-Library project](https://b-ok.xyz/) ❌
 
-## 😜 Funny
+# Funny
 
 - [Papertoys](https://www.paper-toy.fr/)
 - [Geektyper](http://geektyper.com/)
@@ -460,7 +461,7 @@ author:       "jose"
 - [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Foldnfly](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
-## 🧪 <span style="color: #fb4141"> To be tested </span>
+# <span style="color: #fb4141"> To be tested </span>
 
 - [Lnav Log](https://lnav.org/)
 - [Desktophut](https://www.desktophut.com/)
